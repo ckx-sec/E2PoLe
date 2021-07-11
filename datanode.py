@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-'''
 
-Demo for PoLe V1.0 Data node
-
-'''
 import sys  
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QPushButton, QLabel, QLineEdit, QTextBrowser, QFileDialog, QMessageBox, QCheckBox, QComboBox
 from PyQt5.QtCore import QBasicTimer
